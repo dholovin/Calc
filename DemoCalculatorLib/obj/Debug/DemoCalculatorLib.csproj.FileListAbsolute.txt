@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.exe
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.exe
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.Calc.resources
